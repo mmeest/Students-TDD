@@ -1,5 +1,11 @@
 # README
 
+Test : 'student_psec.rb'
+
+https://medium.com/@micosmin/learn-tdd-in-ruby-in-5-easy-steps-3ab28014fec4
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
